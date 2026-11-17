@@ -1,6 +1,6 @@
 # CareLoop Clinics: No-Show Guard
 
-**GitHub repository:** <paste your public repository link here>
+**GitHub repository:** <https://github.com/Subbu567/Capstone-Subbu-Masaiit>
 
 Business question: which appointments are most likely to be missed, why do patients miss them, and what should CareLoop do first?
 
